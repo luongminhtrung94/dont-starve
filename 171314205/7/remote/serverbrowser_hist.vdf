@@ -1,0 +1,26 @@
+"Filters"
+{
+	"favorites"
+	{
+	}
+	"history"
+	{
+		"1"
+		{
+			"name"		"125.212.226.132:27046"
+			"address"		"125.212.226.132:27046"
+			"LastPlayed"		"1448352934"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+		"2"
+		{
+			"name"		"209.58.178.236:27016"
+			"address"		"209.58.178.236:27016"
+			"LastPlayed"		"1448354209"
+			"appid"		"0"
+			"accountid"		"0"
+		}
+	}
+	"lastupdate"		"1589432656"
+}

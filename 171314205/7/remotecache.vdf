@@ -1,0 +1,27 @@
+"7"
+{
+	"serverbrowser_hist.vdf"
+	{
+		"root"		"0"
+		"size"		"382"
+		"localtime"		"1589432656"
+		"time"		"1589432655"
+		"remotetime"		"1589432655"
+		"sha"		"9179ca8f165ddf7e0397bbd82e561b564998d8d4"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"sharedconfig.vdf"
+	{
+		"root"		"0"
+		"size"		"231"
+		"localtime"		"1589342880"
+		"time"		"1589342880"
+		"remotetime"		"1589342880"
+		"sha"		"3889575b5d0fa3bcb78b1a0432cbc204bd50973e"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}
