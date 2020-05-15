@@ -78,7 +78,7 @@
 	}
 	"apptickets"
 	{
-		"7"		"32000000040000001d0c360a010010010700000049c4411bb06019ac000000004ed1bc5ece80d85e01000000000000000000aa07b0f59eeebf4606181cc808fc6e5e3ccd81f894aaf25f341bcaef6638d4d5feac00bd95988a5ad1b11105626ee430c477eedef1539d0ba0af7271828c303112142806da6afa76eceba66fc301dc4f4d0c0c03093c8f46b7ebc40db11cc0a2b4904a8e54a628ee182bba9cf8ddc2e1eb866d68907e06ddc9a6b5a9aefeb804"
+		"7"		"32000000040000001d0c360a010010010700000049c4411bb06019ac000000009523be5e15d3d95e010000000000000000002a927d3b78b662731ea1c6400318f25aa660823ed994ce4584bff2f84203a9b555ba4a16ccc0a8789e1c4f744e1e59a952517cae719b06ac0b3d0037f4482152ec59a0d7bbf9af373b2a6e6f713bb03be6e597d1114489343e03898d2a17d5464f6ae85c64cfe779cd914295400c53942bf827c04a18e91677909a2908c24378"
 		"322330"		"32000000040000001d0c360a010010011aeb040048c4411bb06019ac000000001e73bb5e9e22d75e0100520a010000000000b8e4ff986466467c62ff7a938bfc8dff21e8ff1119a39331e878bfb7e78e335410af7ce77b1cb1d2cdde1ada7540c50d66d2edf1991dd5b4c0902050f6669669984a993c7b8f7ec098890440c429ced5b82f3914a58f9593953cc8fbdacd235ed20f909c3a3bc2a541f481b5f293f51c0c02d8e9488a7fcb6cbc22f468fc913c"
 	}
 	"ParentalSettings"
@@ -96,7 +96,7 @@
 		"id"		"284577654"
 		"AuthData"		"5dd21da8c14d692d4a38b50d4978d5073ce43eaab51e4adb1523ab9c6ecf3dd1"
 	}
-	"AppInfoChangeNumber"		"8432695"
+	"AppInfoChangeNumber"		"8445481"
 	"CloudKey"		"01000000b732426a4e4cd5f1e1914987d96c2ba050e51564b88d519ae418f6c707d348066aa21c66"
 	"CloudKeyCRC"		"-1832936814"
 	"Software"
@@ -154,7 +154,7 @@
 					}
 					"322330"
 					{
-						"LastPlayed"		"1589439297"
+						"LastPlayed"		"1589519264"
 						"Playtime"		"1832"
 						"ViewedLaunchEULA"		"1"
 						"BadgeData"		"020000000802"
@@ -166,7 +166,7 @@
 						"Playtime"		"55"
 					}
 				}
-				"LastPlayedTimesSyncTime"		"1589385734"
+				"LastPlayedTimesSyncTime"		"1589439297"
 				"PlayerLevel"		"2"
 				"ShaderCacheManager"
 				{
@@ -182,7 +182,7 @@
 		"SteamVoiceSettings_171314205"		"{\"inputGain\":1,\"outputGain\":1,\"noiseGateLevel\":2,\"noiseCancellation\":true,\"echoCancellation\":true,\"autoGainControl\":true,\"selectedMic\":\"default\",\"selectedOutput\":\"default\",\"pttSoundsEnabled\":true,\"hasResetOpenMicHotKey\":true}"
 		"CachedCommunityPreferences"		"{\"bBlurAdultContentViolence\":true,\"bBlurAdultContentSex\":true,\"bParenthesizeNicknames\":false}"
 		"CachedStorePreferences"		"{\"eReviewScorePreference\":0,\"content_descriptor_preferences\":{\"content_descriptors_to_exclude\":[{\"content_descriptorid\":3,\"timestamp_added\":0},{\"content_descriptorid\":4,\"timestamp_added\":0}]}}"
-		"friendsactivitystore_storage"		"{\"nVersion\":1,\"cachedFriendsAppsActivity\":{\"trending\":[],\"recent_purchases\":[],\"unowned\":[],\"popular\":[],\"dont_forget\":[],\"being_discussed\":[],\"new_to_group\":[],\"returned_to_group\":[],\"active_friend_count\":0},\"rtCachedFriendsAppsActivityTimeStamp\":1589432657.978}"
+		"friendsactivitystore_storage"		"{\"nVersion\":1,\"cachedFriendsAppsActivity\":{\"trending\":[],\"recent_purchases\":[],\"unowned\":[],\"popular\":[],\"dont_forget\":[],\"being_discussed\":[],\"new_to_group\":[],\"returned_to_group\":[],\"active_friend_count\":0},\"rtCachedFriendsAppsActivityTimeStamp\":1589519256.695}"
 		"FriendGroupCollapse_171314205"		"{\"groups\":{\"offline\":false,\"outgoing\":true}}"
 		"ChatStorePopupState_171314205"		"{\"window_restore_details\":\"1&x=590&y=215&w=740&h=650\",\"bFriendsListVisible\":false,\"always_restore\":false,\"bFriendsListSingleWindow\":false,\"bFriendsListCollapsed\":false}"
 		"FriendStoreLocalPrefs_171314205"		"{\"ePersonaState\":1,\"strNonFriendsAllowedToMsg\":\"\"}"
@@ -234,5 +234,12 @@
 		"68178"		"01000000f7dab672badab2161b2e4f2cab7b09e7b25ce3925558018bd7f436232962a95c32c91d31ce68008d6f727e93681ac2edb971dff0b061a8701e0317e2c2d605dda14167f746f9a7e14dadada58a0457bbb9e82e6f71d9e96eab6f3d0d7fc33aca3d418092e8795dac2c9a28e6d35d0e308d54c7015e32890b0f26a7fbb3f0346645e5180847483e0bac918a71cafca23672895c294bad40d1e084b98d5820379cefc05a5ab8d5a7731d3e3246dac0280740224bba0469aa8fb6ad888181c18a0872f95693209169ad831921d5280dc8fd7766eb846de41249f2c83c5b1fa4de0be91e591d9a2552d72fe39483db5240b46ba60f8f5f6c5f24b59c95102cafa57578f3c5b2e3d80673d68f601d719e7109e744d17cd85fd02f90d150b104863cbeed2680e22cde709f116e1801ece9de601f1e0e0799086674bcd170a83fa69e92f8d6277da2be443408aca56dcf"
 		"77432"		"01000000f7dab672badab2161b2e4f2cab7b09e7b25ce3925558018bd7f41c072962a95c32c91d31ce68008d6f727e2cad4fc3edb971dff0b061a8701e0317e2c2d605dda14167f746f9a7e14dadada58a0457bbb9e82e6f71d9e96eab6f3d0d7fc33aca3d418092e8795dac2c9a28e6d35d0e308d54c7015e3a8d0b0f26a7fbb3f0346645e5180847483e0bac918a71cafcb92172895c294bad40d1e084b98d5820379cefc05a5ab8d5a7731d3e3246dac0280740224bba0469aa8fb6ad888181c18a0872f95693209169ad831921d5280dc8fd7766eb846de41249f2c83c5b1fa4de0be91e591d9a2552d72fe39483db5240b46ba60f8f5f6c5f24b59c95102cafa57578f3c5b2e3d80673d68f601d719e7109e744d17cd85fd02f90d150b104863cbeed2680e22cde709f116e1801ece9de601f1e0e0799086674bcd170a83fa69e92f8d6277da2be44340811d35317"
 		"82858"		"01000000f7dab672badab2161b2e4f2cab7b09e7b25ce3925558018bd7f4ce6a2962a95c32c91d31ce68008d6f727e06911dc3edb971dff0b061a8701e0317e2c2d605dda14167f746f9a7e14dadada58a0457bbb9e82e6f71d9e96eab6f3d0d7fc33aca3d418092e8795dac2c9a28e6d35d0e308d54c7015e3a8d0b0f26a7fbb3f0346645e5180847483e0bac918a71cafcb92172895c294bad40d1e084b98d5820379cefc05a5ab8d5a7731d3e3246dac0280740224bba0469aa8fb6ad888181c18a0872f95693209169ad831921d5280dc8fd7766eb846de41249f2c83c5b1fa4de0be91e591d9a2552d72fe39483db5240b46ba60f8f5f6c5f24b59c95102cafa57578f3c5b2e3d80673d68f601d719e7109e744d17cd85fd02f90d150b104863cbeed2680e22cde709f116e1801ece9de601f1e0e0799086674bcd170a83fa69e92f8d6277da2be443408e5ad0100"
+	}
+	"News"
+	{
+		"Messages"
+		{
+			"5470939419867008715"		"1"
+		}
 	}
 }
